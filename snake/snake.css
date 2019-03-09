@@ -1,0 +1,270 @@
+/*.mouse {
+  background-image: url("mouse_left_button.png");
+  position: absolute;
+  left: 501px;
+  top: 335px;
+  width: 35px;
+  height: 45px;
+  z-index: 6;
+}*/
+
+/*.esc {
+  background-image: url("esc.png");
+  position: absolute;
+  left: 500px;
+  top: 285px;
+  width: 37px;
+  height: 37px;
+  z-index: 5;
+}*/
+
+.yon_tusları {
+  background-image: url("yon_tusları.png");
+  position: absolute;
+  left: 1380px;
+  top: 688px;
+  width: 37px;
+  height: 182px;
+  z-index: 4;
+}
+
+.move {
+  font-size: 24px;
+ /font-family: "Candara";
+  color: rgb(254, 254, 254);
+  font-weight: bold;
+  line-height: 2.083;
+  text-align: left;
+  position: absolute;
+  left: 1425px;
+  top: 680px;
+  z-index: 11;
+}
+
+/*.level {
+  font-size: 30px;
+  font-family: "Candara"; 
+  color: rgb(254, 254, 254);
+  font-weight: bold;
+  line-height: 1.333;
+  text-align: left;
+  position: absolute;
+  left: 1380px;
+  top: 190px;
+  z-index: 7;
+}*/
+
+.fruit {
+  font-size: 30px;
+  font-family: "Candara";
+  color: rgb(254, 254, 254);
+  font-weight: bold;
+  line-height: 1.333;
+  text-align: left;
+  position: absolute;
+  left: 1380px;
+  top: 140px;
+  z-index: 9;
+}
+
+.score {
+  font-size: 50px;
+  font-family: "Candara";
+  color: rgb(254, 254, 254);
+  font-weight: bold;
+  line-height: 1.333;
+  text-align: left;
+  position: absolute;
+  left: 1380px;
+  top: 90px;
+  z-index: 10;
+}
+
+.snake{
+  font-size: 48px;
+  font-family: "Candara";
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  line-height: 0.833;
+  text-align: left;
+  position: absolute;
+  left: 822px;
+  top: 77.508px;
+  z-index: 3;
+}
+
+/*.difficulty {
+  font-size: 30px;
+  font-family: "Candara";
+  color: rgb(254, 254, 254);
+  font-weight: bold;
+  line-height: 1.333;
+  text-align: left;
+  position: absolute;
+  left: 400px;
+  top: 700px;
+  z-index: 9;
+}*/
+
+.pause {
+  background-image: url("p.png");
+  position: absolute;
+  left: 1380px;
+  top: 640px;
+  width: 37px;
+  height: 37px;
+  z-index: 7;
+}
+
+.paus {
+  font-size: 24px;
+ /font-family: "Candara";
+  color: rgb(254, 254, 254);
+  font-weight: bold;
+  line-height: 2.083;
+  text-align: left;
+  position: absolute;
+  left: 1425px;
+  top: 632px;
+  z-index: 11;
+}
+
+._4 {
+  background-image: url("4.png");
+  position: absolute;
+  left: 457px;
+  top: 835px;
+  width: 37px;
+  height: 37px;
+  z-index: 11;
+}
+
+._3 {
+  background-image: url("3.png");
+  position: absolute;
+  left: 348px;
+  top: 835px;
+  width: 37px;
+  height: 37px;
+  z-index: 10;
+}
+
+._2 {
+  background-image: url("2.png");
+  position: absolute;
+  left: 457px;
+  top: 700px;
+  width: 37px;
+  height: 37px;
+  z-index: 9;
+}
+
+._1 {
+  background-image: url("1.png");
+  position: absolute;
+  left: 348px;
+  top: 700px;
+  width: 37px;
+  height: 37px;
+  z-index: 8;
+}
+
+.ERKEK {
+  background-image: url("ERKEK.png");
+  position: absolute;
+  left: 336px;
+  top: 620px;
+  width: 65px;
+  height: 66px;
+  z-index: 12;
+}
+
+.NİNE {
+  background-image: url("NİNE.png");
+  position: absolute;
+  left: 442px;
+  top: 760px;
+  width: 66px;
+  height: 66px;
+  z-index: 13;
+}
+
+.KIZ {
+  background-image: url("KIZ.png");
+  position: absolute;
+  left: 336px;
+  top: 760px;
+  width: 65px;
+  height: 65px;
+  z-index: 14;
+}
+
+.DEDE {
+  background-image: url("DEDE.png");
+  position: absolute;
+  left: 442px;
+  top: 620px;
+  width: 67px;
+  height: 67px;
+  z-index: 15;
+}
+
+.main_menu {
+  font-size: 40px;
+  font-family: "Candara";
+  color: rgb(254, 254, 254);
+  font-weight: bold;
+  line-height: 1.25;
+  text-align: left;
+  position: absolute;
+  left: 331.953px;
+  top: 195px;
+  z-index: 17;
+  text-decoration: none;
+}
+
+.restart{
+  font-size: 40px;
+  font-family: "Candara";
+  color: rgb(254, 254, 254);
+  font-weight: bold;
+  line-height: 1.25;
+  text-align: left;
+  position: absolute;
+  left: 368.984px;
+  top: 120px;
+  z-index: 18;
+  text-decoration: none;
+}
+
+.options {
+  font-size: 40px;
+  font-family: "Candara";
+  color: rgb(254, 254, 254);
+  font-weight: bold;
+  line-height: 1.25;
+  text-align: left;
+  position: absolute;
+  left: 364px;
+  top: 270px;
+  z-index: 16;
+  text-decoration: none;
+}
+
+.main_menu:hover{
+  color: rgb(18,100,13);
+}
+.restart:hover{
+  color: rgb(18,100,13);
+}
+.options:hover{
+  color: rgb(18,100,13);
+}
+
+
+
+
+
+
+
+
