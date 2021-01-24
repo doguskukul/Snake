@@ -20,6 +20,8 @@ yemsesi: yılan yemi yediğinde çalacak olan müzik
 gameoversesi :oyun bitti müziği çalacak.
 */
 
+//testcommit
+
 class game {
 
     constructor(w,h){
